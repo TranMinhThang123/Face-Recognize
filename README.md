@@ -1,5 +1,5 @@
 # Face-Recognize
-## 1.Project Overview `#RRGGBB`
+## 1.Project Overview 
 >This project using FaceNet model to recognizing face of people in class in order to check whether student join the class or not.
 ## 2.Project structure
 ><br>- **Attendance_CSV**: this folder save all infomation about the attendence of student day by day.</br>
