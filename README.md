@@ -23,3 +23,6 @@
 ><br> *B5: Open project using Pycharm and install necessary package in virtual environment.
 ><br> *B6: Run main.py file to start application.
 ## 5. Some screenshot
+<br>![alt text](https://github.com/TranMinhThang123/Face-Recognize/blob/master/Image/Diemdanh.png)
+<br>![alt text](https://github.com/TranMinhThang123/Face-Recognize/blob/master/Image/Manhinhchinh.png)
+<br>![alt text](https://github.com/TranMinhThang123/Face-Recognize/blob/master/Image/SQL.png)
