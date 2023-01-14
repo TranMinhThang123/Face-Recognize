@@ -14,5 +14,5 @@
 ### * Tensorflow
 ### * AppServ
 ### * OpenCV
-### * Tkinder
+### * Tkinter
 
