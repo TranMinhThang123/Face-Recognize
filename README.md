@@ -1,6 +1,6 @@
 # Face-Recognize
 ## 1.Project Overview 
->This project using FaceNet model to recognizing face of people in class in order to check whether student join the class or not.
+>This project using FaceNet model to recognizing face of people in class in order to check whether student join the class or not.It was completed in 3 month with contribution of 5 member in my group.
 ## 2.Project structure
 ><br>- **Attendance_CSV**: this folder save all infomation about the attendence of student day by day.</br>
 ><br>- **DiemDanhImage**: this folder save face of student who was attendenced by the face recognize system.</br>
@@ -10,3 +10,9 @@
 ><br>- **model**: this folder include our model in h5 format.</br>
 ><br>- All .py file is source code of my project.</br>
 ><br>- .sql file is using to create infomation of all students consist of name, student code,....</br>
+## 3.Technology
+### * Tensorflow
+### * AppServ
+### * OpenCV
+### * Tkinder
+
