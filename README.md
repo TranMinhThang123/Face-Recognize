@@ -15,4 +15,11 @@
 ### * AppServ
 ### * OpenCV
 ### * Tkinter
-
+## 4. How to install 
+><br> *B1: git clone https://github.com/TranMinhThang123/Face-Recognize.git.
+><br> *B2: Download and install Appserv from https://www.appserv.org/en/, set password to 'Lehung@181'
+><br> *B3: Log in to phpMyAdmin server with username:root,password:'Lehung@181' in http://localhost/.
+><br> *B4: Import face_recognizer.sql file to server and it automatic create your database named face recognizer.
+><br> *B5: Open project using Pycharm and install necessary package in virtual environment.
+><br> *B6: Run main.py file to start application.
+## 5. Some screenshot
