@@ -6,7 +6,7 @@
 -- Thời gian đã tạo: Th5 20, 2022 lúc 02:12 AM
 -- Phiên bản máy phục vụ: 8.0.17
 -- Phiên bản PHP: 7.3.10
-
+use face_recognizer;
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET AUTOCOMMIT = 0;
 START TRANSACTION;
